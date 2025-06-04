@@ -6,4 +6,4 @@ I am gonna showing to you how to use github api in javascript. we create a proje
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
